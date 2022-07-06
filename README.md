@@ -19,7 +19,7 @@
 
 I am Ranjit Patro, pursuing my BS-MS degree from IISER Berhampur with Mathematics as Major and Computer Science as Minor. I'm a ML, AI enthusiast and a passionate self-taught web developer from Odisha, India.
 
-<img align="right" alt="GIF" src="#" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Ranjit246/Ranjit246/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on some cool Projects. :wink:
 - 🌱 I’m currently learning "how to Sustain?".
