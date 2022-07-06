@@ -27,3 +27,17 @@ I am Ranjit Patro, pursuing my BS-MS degree from IISER Berhampur with Mathematic
 - 🤔 I’m looking for help with data collection for a Project. 
 - 💬 ask me about anything, i am happy to help;
 - 💼 To reach me, [email](mailto:ranjitpatro200@gmail.com) :)
+
+<!-- 
+### My top 10 technologies
+
+|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png)|
+|---|---|---|---|---|
+|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png)|  
+-->
+
+<!--
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ranjit246&show_icons=true&theme=gotham" alt="Ranjit246" />
+-->
