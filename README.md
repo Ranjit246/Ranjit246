@@ -1,4 +1,4 @@
-### Hey there <a href="https://mrsciencehub.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
+### Hey there <a href="https://ranjitpatro.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 
 <a href="https://www.linkedin.com/in/ranjitpatro/">
   <img align="left" alt="Ranjit's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -15,7 +15,7 @@
 
 >Note: This is the place where I open-source stuff(Beginner!)
 
-I am Ranjit Patro, pursuing my BS-MS degree from IISER Berhampur with Mathematics as Major and Computer Science as Minor. I'm a ML, AI enthusiast and a passionate self-taught web developer from Odisha, India.
+I am <a href="https://ranjitpatro.netlify.app/">Ranjit Patro</a>, pursuing my BS-MS degree from IISER Berhampur with Mathematics as Major and Computer Science as Minor. I'm a ML, AI enthusiast and a passionate self-taught web developer from Odisha, India.
 
 <img align="right" alt="GIF" src="https://github.com/Ranjit246/Ranjit246/blob/main/code.gif?raw=true" width="400" height="250" />
 
@@ -24,4 +24,4 @@ I am Ranjit Patro, pursuing my BS-MS degree from IISER Berhampur with Mathematic
 - 👯 I’m looking to collaborate on some ML Projects.
 - 🤔 I’m looking for help with data collection for a Project. 
 - 💬 ask me about anything, i am happy to help;
-- 💼 To reach me, [email](mailto:ranjitpatro200@gmail.com) :)
+- 💼 To reach me, [email](mailto:ranjitpatro200@gmail.com) or visit <a href="https://ranjitpatro.netlify.app/">Website</a> :)
