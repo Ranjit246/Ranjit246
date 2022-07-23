@@ -15,7 +15,7 @@
 <br />
 <br />
 
->Note: This is the place where I open-source stuff(Beginner!) :rofl:
+>Note: This is the place where I open-source stuff(Beginner!)
 
 I am Ranjit Patro, pursuing my BS-MS degree from IISER Berhampur with Mathematics as Major and Computer Science as Minor. I'm a ML, AI enthusiast and a passionate self-taught web developer from Odisha, India.
 
