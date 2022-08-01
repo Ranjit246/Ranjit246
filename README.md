@@ -1,18 +1,14 @@
 ### Hey there <a href="https://ranjitpatro.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 
-<!-- 
-
 <a href="https://www.linkedin.com/in/ranjitpatro/">
-  <img align="left" alt="Ranjit's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ranjit's Linkedin" width="22px" src="https://github.com/Ranjit246/Ranjit246/blob/main/294706_circle_linkedin_icon.png" />
 </a>
 <a href="https://twitter.com/Ranjit__Patro">
-  <img align="left" alt="Ranjit Patro | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ranjit Patro | Twitter" width="22px" src="https://github.com/Ranjit246/Ranjit246/blob/main/294706_circle_linkedin_icon.png" />
 </a>
 <a href="https://www.instagram.com/ranj.it489/">
   <img align="left" alt="Ranjit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-
--->
 
 <!--
 <br />
