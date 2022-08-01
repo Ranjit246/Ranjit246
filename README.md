@@ -1,5 +1,7 @@
 ### Hey there <a href="https://ranjitpatro.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 
+<!-- 
+
 <a href="https://www.linkedin.com/in/ranjitpatro/">
   <img align="left" alt="Ranjit's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -10,14 +12,18 @@
   <img align="left" alt="Ranjit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
+-->
+
+<!--
 <br />
-<br />
+<br /> 
+-->
 
 >Note: This is the place where I open-source stuff(Beginner!)
 
 I am <a href="https://ranjitpatro.netlify.app/">Ranjit Patro</a>, pursuing my BS-MS degree from IISER Berhampur with Mathematics as Major and Computer Science as Minor. I'm a ML, AI enthusiast and a passionate self-taught web developer from Odisha, India.
 
-<img align="right" alt="GIF" src="https://github.com/Ranjit246/Ranjit246/blob/main/code.gif?raw=true" width="400" height="250" />
+<!-- <img align="right" alt="GIF" src="https://github.com/Ranjit246/Ranjit246/blob/main/code.gif?raw=true" width="400" height="250" /> -->
 
 - 🔭 I’m currently working on some cool Projects. :wink:
 - 🌱 I’m currently learning "how to Sustain?".
