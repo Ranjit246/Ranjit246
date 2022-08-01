@@ -4,16 +4,14 @@
   <img align="left" alt="Ranjit's Linkedin" width="22px" src="https://github.com/Ranjit246/Ranjit246/blob/main/294706_circle_linkedin_icon.png" />
 </a>
 <a href="https://twitter.com/Ranjit__Patro">
-  <img align="left" alt="Ranjit Patro | Twitter" width="22px" src="https://github.com/Ranjit246/Ranjit246/blob/main/294706_circle_linkedin_icon.png" />
+  <img align="left" alt="Ranjit Patro | Twitter" width="22px" src="https://github.com/Ranjit246/Ranjit246/blob/main/3225183_app_logo_media_popular_social_icon.png" />
 </a>
 <a href="https://www.instagram.com/ranj.it489/">
-  <img align="left" alt="Ranjit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Ranjit's Instagram" width="22px" src="https://github.com/Ranjit246/Ranjit246/blob/main/1164349_circle_instagram_logo_media_network_icon.png" />
 </a>
 
-<!--
 <br />
 <br /> 
--->
 
 >Note: This is the place where I open-source stuff(Beginner!)
 
