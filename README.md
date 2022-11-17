@@ -19,9 +19,9 @@ I am <a href="https://ranjitpatro.netlify.app/">Ranjit Patro</a>, pursuing my BS
 
 <!-- <img align="right" alt="GIF" src="https://github.com/Ranjit246/Ranjit246/blob/main/code.gif?raw=true" width="400" height="250" /> -->
 
-- 🔭 I’m currently working on some cool Projects. :wink:
-- 🌱 I’m currently learning "how to Sustain?".
-- 👯 I’m looking to collaborate on some ML Projects.
+- 🔭 I’m currently working on NLP Projects. :wink:
+- 🌱 I’m currently learning "Cool stuffs in AI".
+- 👯 I’m looking to collaborate on some AI Projects.
 - 🤔 I’m looking for help with data collection for a Project. 
 - 💬 ask me about anything, i am happy to help;
 - 💼 To reach me, [email](mailto:ranjitpatro200@gmail.com) or visit <a href="https://ranjitpatro.netlify.app/">Website</a> :)
