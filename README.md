@@ -7,7 +7,7 @@
   <img align="left" alt="Ranjit Patro | Twitter" width="22px" src="https://github.com/Ranjit246/Ranjit246/blob/main/3225183_app_logo_media_popular_social_icon.png" />
 </a>
 <a href="https://www.instagram.com/ranj.it489/">
-  <img align="left" alt="Ranjit's Instagram" width="22px" src="https://github.com/Ranjit246/Ranjit246/blob/main/1164349_circle_instagram_logo_media_network_icon.png" />
+  <img align="left" alt="Ranjit's Instagram" width="22px" src="https://github.com/Ranjit246/Ranjit246/blob/main/Instagram-Logo.wine.svg" />
 </a>
 
 <br />
