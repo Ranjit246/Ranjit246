@@ -12,7 +12,7 @@ Speech AI Researcher at **Arrowhead Voice AI**, Bengaluru (previously AI Researc
 
 ## Research interests
 
-Indic/multilingual ASR · low-latency TTS · speech evaluation metrics · speech models low-resource languages · edge AI for real-time translation
+Indic/multilingual LM based ASR · low-latency codec TTS · edge AI for real-time translation · duplex speech mdoels · speech evaluation metrics · speech models low-resource languages 
 
 ## Reach me
 
