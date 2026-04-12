@@ -1,24 +1,19 @@
-### Hey there <a href="https://ranjitpatro.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
+![Speech AI Researcher](https://img.shields.io/badge/Speech%20AI-Researcher-blue?style=flat-square) ![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-yes-green?style=flat-square)
 
-<!-- <a href="https://www.linkedin.com/in/ranjitpatro/">
-  <img align="left" alt="Ranjit's Linkedin" width="22px" src="https://github.com/Ranjit246/Ranjit246/blob/main/294706_circle_linkedin_icon.png" />
-</a>
-<a href="https://twitter.com/Ranjit__Patro">
-  <img align="left" alt="Ranjit Patro | Twitter" width="22px" src="https://github.com/Ranjit246/Ranjit246/blob/main/3225183_app_logo_media_popular_social_icon.png" />
-</a>
-<a href="https://www.instagram.com/ranj.it489/">
-  <img align="left" alt="Ranjit's Instagram" width="22px" src="https://github.com/Ranjit246/Ranjit246/blob/main/Instagram-Logo.wine.svg" />
-</a> -->
+## Hi, I'm Ranjit
 
->Note: This is the place where I open-source stuff(Beginner!)
+Speech AI Researcher at **Arrowhead Voice AI**, Bengaluru. I build real-time conversational speech systems for Indic languages — with a focus on BFSI telephony (Hindi/Hinglish, multilingual Indic). BS-MS dual degree from IISER Berhampur (Math major, CS minor), MS thesis at IISc Bangalore.
 
-I am <a href="https://ranjitpatro.netlify.app/">Ranjit Patro</a>, pursuing my BS-MS degree from IISER Berhampur with Mathematics as Major and Computer Science as Minor. I'm a ML, AI enthusiast and a passionate self-taught web developer from Odisha, India.
+## What I'm working on
 
-<!-- <img align="right" alt="GIF" src="https://github.com/Ranjit246/Ranjit246/blob/main/code.gif?raw=true" width="400" height="250" /> -->
+- 🔬 Evauating Duplex Models and working on models for Indic language
+- 🏗️ Builidng Speech models (ASR, TTS) and LLMs/SLMs for Indic language solving various usecases
+- ⚡ Real-time speech-to-speech pipeline
 
-- 🔭 I’m currently working on NLP Projects. :wink:
-- 🌱 I’m currently learning "Cool stuffs in AI".
-- 👯 I’m looking to collaborate on some AI Projects.
-- 🤔 I’m looking for help with data collection for a Project. 
-- 💬 ask me about anything, i am happy to help;
-- 💼 To reach me, [email](mailto:ranjitpatro200@gmail.com) or visit <a href="https://ranjitpatro.netlify.app/">Website</a> :)
+## Research interests
+
+Indic/multilingual ASR · low-latency TTS · speech evaluation metrics · speech models low-resource languages · edge AI for real-time translation
+
+## Reach me
+
+📧 ranjitpatro200@gmail.com 💼 [linkedin.com/in/ranjitpatro](https://www.linkedin.com/in/ranjitpatro/)
