@@ -2,7 +2,7 @@
 
 ## Hi, I'm Ranjit
 
-Speech AI Researcher at **Arrowhead Voice AI**, Bengaluru. I build real-time conversational speech systems for Indic languages — with a focus on BFSI telephony (Hindi/Hinglish, multilingual Indic). BS-MS dual degree from IISER Berhampur (Math major, CS minor), MS thesis at IISc Bangalore.
+Speech AI Researcher at **Arrowhead Voice AI**, Bengaluru (previously AI Researcher at **Puch AI / TurboML**). I build real-time conversational speech systems for Indic languages — with a focus on BFSI telephony (Hindi/Hinglish, multilingual Indic). BS-MS dual degree from IISER Berhampur (Math major, CS minor), MS thesis at IISc Bangalore.
 
 ## What I'm working on
 
