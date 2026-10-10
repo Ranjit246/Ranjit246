@@ -16,4 +16,4 @@ Indic/multilingual LM based ASR · low-latency codec TTS · edge AI for real-tim
 
 ## Reach me
 
-📧 ranjitpatro200@gmail.com 💼 [linkedin.com/in/ranjitpatro](https://www.linkedin.com/in/ranjitpatro/)
+📧 ranjitpatro100@gmail.com 💼 [linkedin.com/in/ranjitpatro](https://www.linkedin.com/in/ranjitpatro/)
